@@ -33,8 +33,8 @@ const Dashboard = () => {
 				</div>
 
 				{/* Edit Sites List Button */}
-				<a href='https://codesandbox.io/p/sandbox/dashboard-kkvvy6?file=%2Fsrc%2Fsites.js%3A1%2C1' target="_blank">
-					<div className="fixed bottom-[20px] right-[20px] bg-white p-2 rounded-lg hover:drop-shadow-lg">
+				<a href='https://github.com/cyclo9/Dashboard/edit/main/app/sites.js' target="_blank">
+					<div className="fixed bottom-[20px] right-[20px] bg-white p-2 rounded-lg hover:drop-shadow-2xl">
 						<b>Edit Dashboard</b>
 					</div>
 				</a>
