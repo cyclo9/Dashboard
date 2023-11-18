@@ -1,3 +1,3 @@
 # Dashboard
 
-This is a simple static browser launchpad dashboard.
+A simple static browser launchpad dashboard.
